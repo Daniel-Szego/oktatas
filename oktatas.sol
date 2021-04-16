@@ -7,6 +7,8 @@ contract Oktatas {
         Online,
         Hibrid
     }
+    
+    // test comment
  
     // PROPERTIES
     
